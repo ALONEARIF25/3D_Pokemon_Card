@@ -3,6 +3,12 @@ Dynamic and interactive web page featuring animated cards with tilt effects, hov
 <br> 
 ### Everything is customizable and extremely lightweight!
 
+
+
+
+https://github.com/user-attachments/assets/391a8f7c-82dc-49ed-9c01-7370663ff3c1
+
+
 # Features
 #### Dynamic Card Creation: Cards are dynamically generated and displayed in containers.
 #### Tilt Effect: Cards have a tilt effect using the VanillaTilt.js library.
